@@ -5,11 +5,11 @@ export const styles = StyleSheet.create({
         marginBottom: 10,
     },
     imageContainer: {
-        height:100,
+        height: 100,
     },
     image: {
         width: "100%",
-        opacity: 0.2,
+        opacity: 0.25,
         height: 250,
         position: "absolute",
         top: -150,
@@ -24,6 +24,6 @@ export const styles = StyleSheet.create({
     },
     title: {
         fontSize: 32,
-        fontWeight: "bold",
+        fontWeight: "bold"
     },
 });
